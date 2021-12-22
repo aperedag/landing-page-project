@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\html class test"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "landing-page-project"
+	}
+}
